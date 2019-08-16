@@ -1,0 +1,4 @@
++ serialize and retrieve structured data
+- use java Serialization but not very well share data with C++, python
+- ad-hoc way to encode the data into single string
+- Serialize the data to XML
